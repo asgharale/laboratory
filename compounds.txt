@@ -1,0 +1,2 @@
+metan,C,1,H,4
+bomb,H,3,He,1
